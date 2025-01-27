@@ -1,0 +1,103 @@
+overlay: 1.0.0
+info:
+  title: Speakeasy Modifications
+  version: 0.0.2
+  x-speakeasy-metadata:
+    after: ""
+    before: ""
+    type: speakeasy-modifications
+actions:
+  - target: $["paths"]["/subscription/{subscription_id}/resume"]["post"]
+    update:
+      x-speakeasy-group: subscriptions
+      x-speakeasy-name-override: resume
+    x-speakeasy-metadata:
+      type: method-name
+      before: sdk.subscription.resumeSubscription()
+      after: sdk.subscriptions.resume()
+      created_at: 1737989277589
+  - target: $["paths"]["/subscription/{subscription_id}/cancel"]["post"]
+    update:
+      x-speakeasy-group: subscriptions
+      x-speakeasy-name-override: cancel
+    x-speakeasy-metadata:
+      type: method-name
+      before: sdk.subscription.cancelSubscription()
+      after: sdk.subscriptions.cancel()
+      created_at: 1737989277589
+  - target: $["paths"]["/api-keys"]["post"]
+    update:
+      x-speakeasy-group: developerTools
+      x-speakeasy-name-override: createApiKey
+    x-speakeasy-metadata:
+      type: method-name
+      before: sdk.Developer Tools.post_/api-keys()
+      after: sdk.developerTools.createApiKey()
+      created_at: 1737989277589
+  - target: $["paths"]["/subscription/{subscription_id}/activate"]["post"]
+    update:
+      x-speakeasy-group: subscriptions
+      x-speakeasy-name-override: activate
+    x-speakeasy-metadata:
+      type: method-name
+      before: sdk.subscription.activateSubscription()
+      after: sdk.subscriptions.activate()
+      created_at: 1737989277589
+  - target: $["paths"]["/customers/{customer_id}/addresses"]["get"]
+    update:
+      x-speakeasy-group: customers
+      x-speakeasy-name-override: listAddresses
+    x-speakeasy-metadata:
+      type: method-name
+      before: sdk.addresses.list()
+      after: sdk.customers.listAddresses()
+      created_at: 1737989297477
+  - target: $["paths"]["/subscription/{subscription_id}/pause"]["post"]
+    update:
+      x-speakeasy-name-override: pause
+    x-speakeasy-metadata:
+      type: method-name
+      before: sdk.subscription.pauseSubscription()
+      after: sdk.subscription.pause()
+      created_at: 1737989277589
+  - target: $["paths"]["/subscription/{subscription_id}"]["patch"]
+    update:
+      x-speakeasy-group: subscriptions
+      x-speakeasy-name-override: update
+    x-speakeasy-metadata:
+      type: method-name
+      before: sdk.subscription.updateSubscription()
+      after: sdk.subscriptions.update()
+      created_at: 1737989277589
+  - target: $["paths"]["/subscription"]["get"]
+    update:
+      x-speakeasy-group: subscriptions
+    x-speakeasy-metadata:
+      type: method-name
+      before: sdk.subscription.list()
+      after: sdk.subscriptions.list()
+      created_at: 1737989277589
+  - target: $["paths"]["/subscription"]["post"]
+    update:
+      x-speakeasy-group: subscriptions
+    x-speakeasy-metadata:
+      type: method-name
+      before: sdk.subscription.create()
+      after: sdk.subscriptions.create()
+      created_at: 1737989277589
+  - target: $["paths"]["/customers/{customer_id}/addresses"]["post"]
+    update:
+      x-speakeasy-group: customers.addresses
+    x-speakeasy-metadata:
+      type: method-name
+      before: sdk.addresses.create()
+      after: sdk.customers.addresses.create()
+      created_at: 1737989297477
+  - target: $["paths"]["/customers/{customer_id}/addresses/{address_id}"]["patch"]
+    update:
+      x-speakeasy-group: customers.addresses
+    x-speakeasy-metadata:
+      type: method-name
+      before: sdk.addresses.update()
+      after: sdk.customers.addresses.update()
+      created_at: 1737989297477

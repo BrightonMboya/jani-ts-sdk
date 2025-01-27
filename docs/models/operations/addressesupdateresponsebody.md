@@ -1,0 +1,31 @@
+# AddressesUpdateResponseBody
+
+Update an Address
+
+## Example Usage
+
+```typescript
+import { AddressesUpdateResponseBody } from "jani-payments/models/operations";
+
+let value: AddressesUpdateResponseBody = {
+  id: "<id>",
+  customData: {},
+  status: "active",
+  createdAt: "1718217371409",
+  updatedAt: "1737948301236",
+};
+```
+
+## Fields
+
+| Field                                                                                                                            | Type                                                                                                                             | Required                                                                                                                         | Description                                                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| `id`                                                                                                                             | *string*                                                                                                                         | :heavy_check_mark:                                                                                                               | N/A                                                                                                                              |
+| `description`                                                                                                                    | *string*                                                                                                                         | :heavy_minus_sign:                                                                                                               | N/A                                                                                                                              |
+| `firstLine`                                                                                                                      | *string*                                                                                                                         | :heavy_minus_sign:                                                                                                               | N/A                                                                                                                              |
+| `customData`                                                                                                                     | [operations.AddressesUpdateCustomersAddressesCustomData](../../models/operations/addressesupdatecustomersaddressescustomdata.md) | :heavy_check_mark:                                                                                                               | Any valid JSON value                                                                                                             |
+| `city`                                                                                                                           | *string*                                                                                                                         | :heavy_minus_sign:                                                                                                               | N/A                                                                                                                              |
+| `status`                                                                                                                         | [operations.AddressesUpdateCustomersAddressesStatus](../../models/operations/addressesupdatecustomersaddressesstatus.md)         | :heavy_check_mark:                                                                                                               | N/A                                                                                                                              |
+| `createdAt`                                                                                                                      | *string*                                                                                                                         | :heavy_check_mark:                                                                                                               | N/A                                                                                                                              |
+| `updatedAt`                                                                                                                      | *string*                                                                                                                         | :heavy_check_mark:                                                                                                               | N/A                                                                                                                              |
+| `customerId`                                                                                                                     | *string*                                                                                                                         | :heavy_minus_sign:                                                                                                               | N/A                                                                                                                              |
