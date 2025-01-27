@@ -39,8 +39,8 @@ let value: TransactionsGetResponseBody = {
         },
         status: "active",
         id: "<id>",
-        createdAt: "1713612577300",
-        updatedAt: "1737913758918",
+        createdAt: "1713614290302",
+        updatedAt: "1737915471920",
       },
       quantity: 9642.1,
       product: {
@@ -49,8 +49,8 @@ let value: TransactionsGetResponseBody = {
         description:
           "exasperation cap seemingly deep from supposing drowse intent foodstuffs",
         status: "active",
-        createdAt: "1708405081845",
-        updatedAt: "1737973904878",
+        createdAt: "1708406794848",
+        updatedAt: "1737975617881",
         customData: {},
       },
     },
@@ -60,7 +60,7 @@ let value: TransactionsGetResponseBody = {
     status: "PROCESSING",
     paymentMethod: "CARD",
     provider: "SELCOM",
-    createdAt: "1706503631455",
+    createdAt: "1706505344459",
     providerReference: "<value>",
     providerMetadata: {},
     methodDetails: {
@@ -71,7 +71,7 @@ let value: TransactionsGetResponseBody = {
       },
     },
   },
-  createdAt: "1731023388608",
+  createdAt: "1731025101613",
   customer: {
     id: "cus_2e229e50-1b92-4479-b3e3-829a3da6fc00",
     email: "brighton@gmail.com",
@@ -86,8 +86,8 @@ let value: TransactionsGetResponseBody = {
     id: "<id>",
     customData: {},
     status: "archived",
-    createdAt: "1730712321457",
-    updatedAt: "1737949341247",
+    createdAt: "1730714034462",
+    updatedAt: "1737951054252",
   },
   invoiceId: "<id>",
 };

@@ -10,8 +10,8 @@ let value: TransactionsGetProduct = {
   name: "<value>",
   description: "after what laughter task whenever below certification drat",
   status: "archived",
-  createdAt: "1736572246956",
-  updatedAt: "1737947779682",
+  createdAt: "1736573959915",
+  updatedAt: "1737949492642",
   customData: {},
 };
 ```

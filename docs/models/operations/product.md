@@ -10,8 +10,8 @@ let value: Product = {
   name: "<value>",
   description: "supposing immediately terrible",
   status: "archived",
-  createdAt: "1716151675009",
-  updatedAt: "1737978603865",
+  createdAt: "1716153387885",
+  updatedAt: "1737980316741",
   customData: {},
 };
 ```

@@ -24,8 +24,8 @@ let value: TransactionsListItems = {
     },
     status: "archived",
     id: "<id>",
-    createdAt: "1717777830207",
-    updatedAt: "1737979641273",
+    createdAt: "1717779542951",
+    updatedAt: "1737981354017",
   },
   quantity: 6386.09,
   product: {
@@ -33,8 +33,8 @@ let value: TransactionsListItems = {
     name: "<value>",
     description: "essay gently underpants yak tune judgementally",
     status: "active",
-    createdAt: "1732372905644",
-    updatedAt: "1737963469783",
+    createdAt: "1732374618389",
+    updatedAt: "1737965182529",
     customData: {},
   },
 };

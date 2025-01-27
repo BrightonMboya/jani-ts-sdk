@@ -2,19 +2,20 @@ speakeasyVersion: 1.476.2
 sources:
     JANI Payments:
         sourceNamespace: jani-payments
-        sourceRevisionDigest: sha256:b7c0e735489ed60959ed56aab3891c889125b086978285890a748b5a30c9f1d5
-        sourceBlobDigest: sha256:0bb174f226d9647341d6ee75f25c3309791cdabb90bbae47c88e4545185e7148
+        sourceRevisionDigest: sha256:113bd44a9e4b4f3d2c0df86ac8c18dab5dca29e39d44ca93300f98d3ff17bcee
+        sourceBlobDigest: sha256:25f7afe46ea041c438fce2ac6c70fd73a99f28353e9ed7bae8ad39e8f34fa4e1
         tags:
             - latest
+            - speakeasy-sdk-regen-1737991027
             - 1.0.0
 targets:
     jani-payments:
         source: JANI Payments
         sourceNamespace: jani-payments
-        sourceRevisionDigest: sha256:b7c0e735489ed60959ed56aab3891c889125b086978285890a748b5a30c9f1d5
-        sourceBlobDigest: sha256:0bb174f226d9647341d6ee75f25c3309791cdabb90bbae47c88e4545185e7148
+        sourceRevisionDigest: sha256:113bd44a9e4b4f3d2c0df86ac8c18dab5dca29e39d44ca93300f98d3ff17bcee
+        sourceBlobDigest: sha256:25f7afe46ea041c438fce2ac6c70fd73a99f28353e9ed7bae8ad39e8f34fa4e1
         codeSamplesNamespace: jani-payments-typescript-code-samples
-        codeSamplesRevisionDigest: sha256:c2ce296d5d5162e7369e423fcef82cf995f48109c9e38f2349490cd4471b5c9d
+        codeSamplesRevisionDigest: sha256:e96bbeb8c0eaebaf4a4e9e9ad5ea33e01d2588d1cfaad7f4047517046c76299e
 workflow:
     workflowVersion: 1.0.0
     speakeasyVersion: latest

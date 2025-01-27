@@ -9,8 +9,8 @@ let value: TransactionsGetAddress = {
   id: "<id>",
   customData: {},
   status: "archived",
-  createdAt: "1706925636390",
-  updatedAt: "1737942462989",
+  createdAt: "1706927349382",
+  updatedAt: "1737944175982",
 };
 ```
 

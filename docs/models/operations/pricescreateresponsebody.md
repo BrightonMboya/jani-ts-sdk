@@ -25,8 +25,8 @@ let value: PricesCreateResponseBody = {
   },
   status: "archived",
   id: "<id>",
-  createdAt: "1715057055407",
-  updatedAt: "1737934985476",
+  createdAt: "1715058767424",
+  updatedAt: "1737936697494",
 };
 ```
 

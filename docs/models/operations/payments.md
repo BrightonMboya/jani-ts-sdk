@@ -10,7 +10,7 @@ let value: Payments = {
   status: "COMPLETED",
   paymentMethod: "BANK_TRANSFER",
   provider: "SELCOM",
-  createdAt: "1730732012283",
+  createdAt: "1730733725173",
   providerReference: "<value>",
   providerMetadata: {},
   methodDetails: {

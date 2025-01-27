@@ -12,8 +12,8 @@ let value: SubscriptionCreateDiscount = {
   currencyCode: "NAD",
   type: "flat_per_seat",
   customData: {},
-  createdAt: "1722307145792",
-  updatedAt: "1737982634315",
+  createdAt: "1722308858046",
+  updatedAt: "1737984346569",
   restrictedTo: [
     "<value>",
   ],

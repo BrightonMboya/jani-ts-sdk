@@ -24,8 +24,8 @@ let value: TransactionsCreateTransactionsItems = {
     },
     status: "archived",
     id: "<id>",
-    createdAt: "1712297372977",
-    updatedAt: "1737938811338",
+    createdAt: "1712299085856",
+    updatedAt: "1737940524217",
   },
   quantity: 5199.85,
   product: {
@@ -33,8 +33,8 @@ let value: TransactionsCreateTransactionsItems = {
     name: "<value>",
     description: "far exalted marten save above hourly",
     status: "active",
-    createdAt: "1731775975661",
-    updatedAt: "1737969253207",
+    createdAt: "1731777688541",
+    updatedAt: "1737970966088",
     customData: {},
   },
 };

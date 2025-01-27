@@ -12,8 +12,8 @@ let value: SubscriptionResumeSubscriptionDiscount = {
   currencyCode: "MZN",
   type: "flat",
   customData: {},
-  createdAt: "1729408024777",
-  updatedAt: "1737958020645",
+  createdAt: "1729409737249",
+  updatedAt: "1737959733117",
   restrictedTo: [
     "<value>",
   ],

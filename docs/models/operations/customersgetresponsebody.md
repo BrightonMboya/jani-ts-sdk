@@ -13,8 +13,8 @@ let value: CustomersGetResponseBody = {
   name: "<value>",
   status: "archived",
   customData: {},
-  createdAt: "1726447095038",
-  updatedAt: "1737977877214",
+  createdAt: "1726448807179",
+  updatedAt: "1737979589355",
 };
 ```
 

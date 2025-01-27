@@ -11,8 +11,8 @@ let value: AddressesUpdateResponseBody = {
   id: "<id>",
   customData: {},
   status: "active",
-  createdAt: "1718217371409",
-  updatedAt: "1737948301236",
+  createdAt: "1718219083605",
+  updatedAt: "1737950013432",
 };
 ```
 

@@ -12,8 +12,8 @@ let value: TransactionsListDiscount = {
   currencyCode: "DOP",
   type: "flat",
   customData: {},
-  createdAt: "1714591499924",
-  updatedAt: "1737948936800",
+  createdAt: "1714593212700",
+  updatedAt: "1737950649576",
   restrictedTo: [
     "<value>",
   ],

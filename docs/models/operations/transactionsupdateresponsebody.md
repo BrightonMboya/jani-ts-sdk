@@ -39,8 +39,8 @@ let value: TransactionsUpdateResponseBody = {
         },
         status: "archived",
         id: "<id>",
-        createdAt: "1724891272655",
-        updatedAt: "1737929171482",
+        createdAt: "1724892985767",
+        updatedAt: "1737930884593",
       },
       quantity: 3299.61,
       product: {
@@ -49,8 +49,8 @@ let value: TransactionsUpdateResponseBody = {
         description:
           "testify vulgarise yum near emphasize overload stiff unto excepting insidious",
         status: "active",
-        createdAt: "1724752050770",
-        updatedAt: "1737980482511",
+        createdAt: "1724753763882",
+        updatedAt: "1737982195623",
         customData: {},
       },
     },
@@ -60,7 +60,7 @@ let value: TransactionsUpdateResponseBody = {
     status: "COMPLETED",
     paymentMethod: "BANK_TRANSFER",
     provider: "FLUTTERWAVE",
-    createdAt: "1726032204062",
+    createdAt: "1726033917174",
     providerReference: "<value>",
     providerMetadata: {},
     methodDetails: {
@@ -71,7 +71,7 @@ let value: TransactionsUpdateResponseBody = {
       },
     },
   },
-  createdAt: "1724258479055",
+  createdAt: "1724260192168",
   customer: {
     id: "cus_2e229e50-1b92-4479-b3e3-829a3da6fc00",
     email: "brighton@gmail.com",
@@ -86,8 +86,8 @@ let value: TransactionsUpdateResponseBody = {
     id: "<id>",
     customData: {},
     status: "active",
-    createdAt: "1737389510574",
-    updatedAt: "1737924186305",
+    createdAt: "1737391223687",
+    updatedAt: "1737925899418",
   },
   invoiceId: "<id>",
 };

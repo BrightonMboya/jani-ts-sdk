@@ -14,8 +14,8 @@ let value: DiscountCreateResponseBody = {
   currencyCode: "AOA",
   type: "flat",
   customData: {},
-  createdAt: "1719975845710",
-  updatedAt: "1737908825765",
+  createdAt: "1719977557805",
+  updatedAt: "1737910537860",
   restrictedTo: [
     "<value>",
   ],

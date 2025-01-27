@@ -24,8 +24,8 @@ let value: TransactionsGetItems = {
     },
     status: "active",
     id: "<id>",
-    createdAt: "1725380760420",
-    updatedAt: "1737922384938",
+    createdAt: "1725382473383",
+    updatedAt: "1737924097901",
   },
   quantity: 8373.27,
   product: {
@@ -33,8 +33,8 @@ let value: TransactionsGetItems = {
     name: "<value>",
     description: "hence optimistically militate rusty so",
     status: "archived",
-    createdAt: "1714928625428",
-    updatedAt: "1737914156386",
+    createdAt: "1714930338393",
+    updatedAt: "1737915869351",
     customData: {},
   },
 };

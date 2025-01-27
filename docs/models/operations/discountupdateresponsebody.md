@@ -14,8 +14,8 @@ let value: DiscountUpdateResponseBody = {
   currencyCode: "BAM",
   type: "flat_per_seat",
   customData: {},
-  createdAt: "1715548278979",
-  updatedAt: "1737923802583",
+  createdAt: "1715549991099",
+  updatedAt: "1737925514703",
   restrictedTo: [
     "<value>",
   ],

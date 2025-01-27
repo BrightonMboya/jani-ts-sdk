@@ -10,8 +10,8 @@ let value: TransactionsListProduct = {
   name: "<value>",
   description: "phooey without solidly accentuate delightfully with close",
   status: "active",
-  createdAt: "1731101305388",
-  updatedAt: "1737962883855",
+  createdAt: "1731103018129",
+  updatedAt: "1737964596595",
   customData: {},
 };
 ```

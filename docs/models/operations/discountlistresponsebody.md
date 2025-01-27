@@ -12,8 +12,8 @@ let value: DiscountListResponseBody = {
   currencyCode: "XPF",
   type: "percentage",
   customData: {},
-  createdAt: "1717702452359",
-  updatedAt: "1737904354986",
+  createdAt: "1717704164441",
+  updatedAt: "1737906067068",
   restrictedTo: [
     "<value>",
   ],
