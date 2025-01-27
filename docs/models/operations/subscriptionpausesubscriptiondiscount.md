@@ -12,8 +12,8 @@ let value: SubscriptionPauseSubscriptionDiscount = {
   currencyCode: "LYD",
   type: "flat",
   customData: {},
-  createdAt: "1721351385515",
-  updatedAt: "1737940809608",
+  createdAt: "1721353098184",
+  updatedAt: "1737942522277",
   restrictedTo: [
     "<value>",
   ],

@@ -23,8 +23,8 @@ let value: TransactionsUpdatePrice = {
   },
   status: "archived",
   id: "<id>",
-  createdAt: "1728950193499",
-  updatedAt: "1737938254425",
+  createdAt: "1728951906532",
+  updatedAt: "1737939967477",
 };
 ```
 

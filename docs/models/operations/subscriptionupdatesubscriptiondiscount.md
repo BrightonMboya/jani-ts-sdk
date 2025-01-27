@@ -12,8 +12,8 @@ let value: SubscriptionUpdateSubscriptionDiscount = {
   currencyCode: "KPW",
   type: "flat",
   customData: {},
-  createdAt: "1719434051101",
-  updatedAt: "1737945233412",
+  createdAt: "1719435763711",
+  updatedAt: "1737946946022",
   restrictedTo: [
     "<value>",
   ],

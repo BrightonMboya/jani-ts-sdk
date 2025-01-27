@@ -12,8 +12,8 @@ let value: TransactionsCreateDiscount = {
   currencyCode: "HTG",
   type: "flat",
   customData: {},
-  createdAt: "1733103712191",
-  updatedAt: "1737916323064",
+  createdAt: "1733105425097",
+  updatedAt: "1737918035970",
   restrictedTo: [
     "<value>",
   ],

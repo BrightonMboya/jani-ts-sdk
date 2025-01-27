@@ -9,8 +9,8 @@ let value: AddressesListResponseBody = {
   id: "<id>",
   customData: {},
   status: "archived",
-  createdAt: "1723699906003",
-  updatedAt: "1737926688772",
+  createdAt: "1723701618161",
+  updatedAt: "1737928400930",
 };
 ```
 

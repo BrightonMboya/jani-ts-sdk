@@ -23,8 +23,8 @@ let value: SubscriptionCancelSubscriptionPrice = {
   },
   status: "archived",
   id: "<id>",
-  createdAt: "1735693895101",
-  updatedAt: "1737905445941",
+  createdAt: "1735695607474",
+  updatedAt: "1737907158314",
 };
 ```
 

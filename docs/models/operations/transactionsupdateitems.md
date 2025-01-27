@@ -24,8 +24,8 @@ let value: TransactionsUpdateItems = {
     },
     status: "active",
     id: "<id>",
-    createdAt: "1732212741962",
-    updatedAt: "1737949560540",
+    createdAt: "1732214455028",
+    updatedAt: "1737951273606",
   },
   quantity: 458.5,
   product: {
@@ -33,8 +33,8 @@ let value: TransactionsUpdateItems = {
     name: "<value>",
     description: "per beside sweet majority wonderfully bah",
     status: "archived",
-    createdAt: "1710066997522",
-    updatedAt: "1737949619829",
+    createdAt: "1710068710591",
+    updatedAt: "1737951332897",
     customData: {},
   },
 };

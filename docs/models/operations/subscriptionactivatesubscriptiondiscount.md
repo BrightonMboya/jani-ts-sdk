@@ -12,8 +12,8 @@ let value: SubscriptionActivateSubscriptionDiscount = {
   currencyCode: "GMD",
   type: "percentage",
   customData: {},
-  createdAt: "1722767739446",
-  updatedAt: "1737944845141",
+  createdAt: "1722769451976",
+  updatedAt: "1737946557671",
   restrictedTo: [
     "<value>",
   ],

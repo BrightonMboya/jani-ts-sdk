@@ -23,8 +23,8 @@ let value: Price = {
   },
   status: "archived",
   id: "<id>",
-  createdAt: "1737694535711",
-  updatedAt: "1737920129011",
+  createdAt: "1737696248580",
+  updatedAt: "1737921841880",
 };
 ```
 

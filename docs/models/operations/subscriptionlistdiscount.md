@@ -12,8 +12,8 @@ let value: SubscriptionListDiscount = {
   currencyCode: "MVR",
   type: "flat",
   customData: {},
-  createdAt: "1711783729465",
-  updatedAt: "1737977211352",
+  createdAt: "1711785441788",
+  updatedAt: "1737978923675",
   restrictedTo: [
     "<value>",
   ],

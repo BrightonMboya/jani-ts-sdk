@@ -10,7 +10,7 @@ let value: TransactionsListPayments = {
   status: "REFUNDED",
   paymentMethod: "BANK_TRANSFER",
   provider: "MPESA",
-  createdAt: "1707858939343",
+  createdAt: "1707860652112",
   providerReference: "<value>",
   providerMetadata: {},
   methodDetails: {

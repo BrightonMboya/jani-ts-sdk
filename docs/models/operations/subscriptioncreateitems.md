@@ -12,8 +12,8 @@ let value: SubscriptionCreateItems = {
   id: "<id>",
   subscriptionId: "<id>",
   recurring: false,
-  createdAt: "1728417613599",
-  updatedAt: "1737973245383",
+  createdAt: "1728419325841",
+  updatedAt: "1737974957625",
   previouslyBilledAt: "<value>",
   nextBilledAt: "<value>",
   trialStartedAt: "<value>",
@@ -36,8 +36,8 @@ let value: SubscriptionCreateItems = {
     },
     status: "active",
     id: "<id>",
-    createdAt: "1713635967774",
-    updatedAt: "1737938394007",
+    createdAt: "1713637680017",
+    updatedAt: "1737940106250",
   },
 };
 ```

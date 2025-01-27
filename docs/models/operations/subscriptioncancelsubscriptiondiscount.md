@@ -12,8 +12,8 @@ let value: SubscriptionCancelSubscriptionDiscount = {
   currencyCode: "ZAR",
   type: "flat",
   customData: {},
-  createdAt: "1712085042176",
-  updatedAt: "1737955895558",
+  createdAt: "1712086754564",
+  updatedAt: "1737957607945",
   restrictedTo: [
     "<value>",
   ],

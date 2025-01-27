@@ -12,8 +12,8 @@ let value: TransactionsGetDiscount = {
   currencyCode: "CAD",
   type: "flat_per_seat",
   customData: {},
-  createdAt: "1725661729628",
-  updatedAt: "1737918938942",
+  createdAt: "1725663442625",
+  updatedAt: "1737920651939",
   restrictedTo: [
     "<value>",
   ],

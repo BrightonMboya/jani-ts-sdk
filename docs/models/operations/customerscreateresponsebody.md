@@ -13,8 +13,8 @@ let value: CustomersCreateResponseBody = {
   name: "<value>",
   status: "active",
   customData: {},
-  createdAt: "1718407282166",
-  updatedAt: "1737935283086",
+  createdAt: "1718408994301",
+  updatedAt: "1737936995221",
 };
 ```
 

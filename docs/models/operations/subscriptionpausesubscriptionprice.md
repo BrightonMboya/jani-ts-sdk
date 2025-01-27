@@ -23,8 +23,8 @@ let value: SubscriptionPauseSubscriptionPrice = {
   },
   status: "archived",
   id: "<id>",
-  createdAt: "1707806434297",
-  updatedAt: "1737963497947",
+  createdAt: "1707808146953",
+  updatedAt: "1737965210603",
 };
 ```
 

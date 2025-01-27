@@ -12,8 +12,8 @@ let value: ProductsCreateResponseBody = {
   name: "<value>",
   description: "regularly mouser inject worth uh-huh substitution psst",
   status: "active",
-  createdAt: "1712760434313",
-  updatedAt: "1737904544369",
+  createdAt: "1712762146273",
+  updatedAt: "1737906256328",
   customData: {},
 };
 ```

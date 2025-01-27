@@ -10,8 +10,8 @@ let value: ResponseBody = {
   name: "<value>",
   description: "whole busily jive hawk gee basic minus hence",
   status: "active",
-  createdAt: "1714161549311",
-  updatedAt: "1737916678900",
+  createdAt: "1714163261266",
+  updatedAt: "1737918390854",
   customData: {},
 };
 ```

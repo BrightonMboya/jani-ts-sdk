@@ -14,8 +14,8 @@ let value: DiscountGetDiscountResponseBody = {
   currencyCode: "AFN",
   type: "flat",
   customData: {},
-  createdAt: "1725957737088",
-  updatedAt: "1737987119005",
+  createdAt: "1725959449192",
+  updatedAt: "1737988831109",
   restrictedTo: [
     "<value>",
   ],

@@ -12,8 +12,8 @@ let value: TransactionsUpdateDiscount = {
   currencyCode: "MDL",
   type: "flat_per_seat",
   customData: {},
-  createdAt: "1708039324074",
-  updatedAt: "1737939311372",
+  createdAt: "1708041037183",
+  updatedAt: "1737941024481",
   restrictedTo: [
     "<value>",
   ],

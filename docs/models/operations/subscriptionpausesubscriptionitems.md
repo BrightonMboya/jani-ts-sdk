@@ -12,8 +12,8 @@ let value: SubscriptionPauseSubscriptionItems = {
   id: "<id>",
   subscriptionId: "<id>",
   recurring: false,
-  createdAt: "1717624178349",
-  updatedAt: "1737913336564",
+  createdAt: "1717625891008",
+  updatedAt: "1737915049224",
   previouslyBilledAt: "<value>",
   nextBilledAt: "<value>",
   trialStartedAt: "<value>",
@@ -36,8 +36,8 @@ let value: SubscriptionPauseSubscriptionItems = {
     },
     status: "archived",
     id: "<id>",
-    createdAt: "1715786418379",
-    updatedAt: "1737983234595",
+    createdAt: "1715788131039",
+    updatedAt: "1737984947255",
   },
 };
 ```

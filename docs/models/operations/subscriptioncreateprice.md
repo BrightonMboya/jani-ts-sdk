@@ -23,8 +23,8 @@ let value: SubscriptionCreatePrice = {
   },
   status: "archived",
   id: "<id>",
-  createdAt: "1725387313347",
-  updatedAt: "1737953810872",
+  createdAt: "1725389025586",
+  updatedAt: "1737955523111",
 };
 ```
 

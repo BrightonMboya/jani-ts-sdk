@@ -10,8 +10,8 @@ let value: TransactionsUpdateProduct = {
   name: "<value>",
   description: "throughout with ick enlightened wide solemnly lest onto",
   status: "active",
-  createdAt: "1709670632953",
-  updatedAt: "1737971014518",
+  createdAt: "1709672346016",
+  updatedAt: "1737972727581",
   customData: {},
 };
 ```

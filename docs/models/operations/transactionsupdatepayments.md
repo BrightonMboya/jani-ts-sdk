@@ -10,7 +10,7 @@ let value: TransactionsUpdatePayments = {
   status: "PENDING",
   paymentMethod: "MOBILE_MONEY",
   provider: "AIRTEL",
-  createdAt: "1730324056797",
+  createdAt: "1730325769889",
   providerReference: "<value>",
   providerMetadata: {},
   methodDetails: {

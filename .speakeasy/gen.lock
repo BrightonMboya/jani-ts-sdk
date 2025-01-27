@@ -5,8 +5,10 @@ management:
   docVersion: 1.0.0
   speakeasyVersion: 1.476.2
   generationVersion: 2.495.1
-  releaseVersion: 0.1.1
-  configChecksum: 5deac113d461c27f1b401080f587516b
+  releaseVersion: 0.1.2
+  configChecksum: 73262e7dd83f0db29452164fa50c1afd
+  repoURL: https://github.com/BrightonMboya/jani-ts-sdk.git
+  installationURL: https://github.com/BrightonMboya/jani-ts-sdk
 features:
   typescript:
     additionalDependencies: 0.1.0
