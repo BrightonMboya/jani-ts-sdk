@@ -1,0 +1,38 @@
+speakeasyVersion: 1.476.2
+sources:
+    JaniPayments-OAS:
+        sourceNamespace: jani-payments-oas
+        sourceRevisionDigest: sha256:b6c30a6123cee2f446364ca95bc8d34a6c6d37867e5c3645ac8014b476f98381
+        sourceBlobDigest: sha256:b45866288de9df25e7db5e6df3f87cb432e72b48af270e276e6af1af779f3e20
+        tags:
+            - latest
+            - 1.0.0
+targets:
+    jani-payments:
+        source: JaniPayments-OAS
+        sourceNamespace: jani-payments-oas
+        sourceRevisionDigest: sha256:b6c30a6123cee2f446364ca95bc8d34a6c6d37867e5c3645ac8014b476f98381
+        sourceBlobDigest: sha256:b45866288de9df25e7db5e6df3f87cb432e72b48af270e276e6af1af779f3e20
+        codeSamplesNamespace: jani-payments-oas-typescript-code-samples
+        codeSamplesRevisionDigest: sha256:be9272e4ead8d121250d50466ef99fc8944f210bc33ae092c93d19eaddb26ab0
+workflow:
+    workflowVersion: 1.0.0
+    speakeasyVersion: latest
+    sources:
+        JaniPayments-OAS:
+            inputs:
+                - location: https://billing.jani-ai.com/doc
+            overlays:
+                - location: .speakeasy/speakeasy-modifications-overlay.yaml
+            registry:
+                location: registry.speakeasyapi.dev/jani-payments/billing/jani-payments-oas
+    targets:
+        jani-payments:
+            target: typescript
+            source: JaniPayments-OAS
+            codeSamples:
+                registry:
+                    location: registry.speakeasyapi.dev/jani-payments/billing/jani-payments-oas-typescript-code-samples
+                labelOverride:
+                    fixedValue: Typescript (SDK)
+                blocking: false
